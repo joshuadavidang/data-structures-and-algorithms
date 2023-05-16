@@ -36,5 +36,23 @@ tests = [
                 
 dsa = DSA("algorithm", "binary_search")
 for i in range(len(tests)):
-    index = dsa.binary_search(tests[i]['input']['book_no'], tests[i]['input']['query'])
-    print(tests[i]['name'] + ":", tests[i]['output'] == index)
+    result = dsa.binary_search(tests[i]['input']['book_no'], tests[i]['input']['query'])
+    print("Input:")
+    print(tests[i]['input'])
+    print()
+
+    print("Expected Output:")
+    print(tests[i]['output'])
+    print()
+
+    print("Actual Output:")
+    print(result)
+    print()
+
+    print("Test Result:")
+    if tests[i]['output'] == result:
+        print("PASSED")
+    else:
+        print("FAILED")
+
+    print()
