@@ -17,7 +17,7 @@ class DSA:
     
 tests = [
     {
-        'name': 'query found in list book',
+        'name': 'Query found in list book',
         'input': {
             'book_no': [1, 3, 5, 7, 11, 23, 35, 55, 56, 61],
             'query': 5
@@ -25,7 +25,7 @@ tests = [
         'output': 2
         },
     {
-        'name': 'query found in the first element',
+        'name': 'Query found in the first element',
         'input': {
             'book_no': [1, 3, 5, 7, 11, 23, 35, 55, 56, 61],
             'query': 1
@@ -33,7 +33,7 @@ tests = [
         'output': 0
     },
     {
-        'name': 'query found in the last element',
+        'name': 'Query found in the last element',
         'input': {
             'book_no': [1, 3, 5, 7, 11, 23, 35, 55, 56, 61],
             'query': 61
@@ -41,7 +41,15 @@ tests = [
         'output': 9
     },
     {
-        'name': 'query not found in list book',
+        'name': 'Query is the only element',
+        'input': {
+            'book_no': [5],
+            'query': 5
+        },
+        'output': 0
+    },
+    {
+        'name': 'Query not found in list book',
         'input': {
             'book_no': [1, 3, 5, 7, 11, 23, 35, 55, 56, 61],
             'query': 50
@@ -57,6 +65,9 @@ total_tests = len(tests)
 
 for index, test in enumerate(tests):
     result = dsa.binary_search(tests[index]['input']['book_no'], tests[index]['input']['query'])
+    print(f'Test Case {index + 1}:', tests[index]['name'])
+    print()
+
     print('Input:')
     print(tests[index]['input'])
     print()
@@ -78,5 +89,7 @@ for index, test in enumerate(tests):
         failed_cases += 1
 
     print()
+    print('*' * 100)
+    print()
 
-print(passed_cases, '/', total_tests)
+print(f'Result: {passed_cases}/{total_tests}')
