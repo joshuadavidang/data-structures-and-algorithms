@@ -23,7 +23,7 @@ tests = [
             'query': 5
         },
         'output': 2
-        },
+    },
     {
         'name': 'Query found in the first element',
         'input': {
