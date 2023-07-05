@@ -1,4 +1,4 @@
-def maxSubArray(arr):
+def max_subarray(arr):
     if len(arr) == 0:
         return []
 

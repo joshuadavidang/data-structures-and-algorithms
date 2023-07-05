@@ -1,4 +1,4 @@
-from maximum_subarray import maxSubArray
+from max_subarray import max_subarray
 
 tests = [
     {
@@ -25,7 +25,7 @@ total_cases = len(tests)
 for i, test in enumerate(tests):
     print(f'Test Case {i + 1}:', test['test_case'])
     print(f'Expected Output:', test['output'])
-    result = maxSubArray(test['query'])
+    result = max_subarray(test['query'])
     print(f'Actual Output:', result)
     
     if result == test['output']:
