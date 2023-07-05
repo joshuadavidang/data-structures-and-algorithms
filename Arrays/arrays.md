@@ -10,6 +10,7 @@
 - Duplicated values
 
 ## Techniques
+- two_pointer.py
 - sliding_window.py
 
 ## Credits
