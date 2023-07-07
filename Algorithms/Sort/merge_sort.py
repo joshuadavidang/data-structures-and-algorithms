@@ -39,7 +39,8 @@ class DSA:
             j += 1
 
         return result
-    
+
+
 array = [55, 123, 21, 15, 99, 3, 12]
 dsa = DSA("algorithm", "merge_sort")
 sorted_array = dsa.sortArray(array)

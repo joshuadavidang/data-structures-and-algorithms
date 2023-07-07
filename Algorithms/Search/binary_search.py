@@ -8,7 +8,7 @@ class DSA:
         while left <= right:
             mid = (left + right) // 2
             if books[mid] > target:
-                right = mid - 1          
+                right = mid - 1
             elif books[mid] < target:
                 left = mid + 1
             else:

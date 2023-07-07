@@ -13,5 +13,5 @@ def max_subarray(arr):
 
         if currentSum > maxSum:
             maxSum = currentSum
-        
+
     return maxSum

@@ -2,16 +2,16 @@ from is_anagram import is_anagram
 
 tests = [
     {
-        'test_case': 'Both lengths are equal',
-        'query_one': 'anagram',
-        'query_two': 'nagaram',
-        'output': True
+        "test_case": "Both lengths are equal",
+        "query_one": "anagram",
+        "query_two": "nagaram",
+        "output": True,
     },
     {
-        'test_case': 'Both lengths are not equal',
-        'query_one': 'rat',
-        'query_two': 'car',
-        'output': False
+        "test_case": "Both lengths are not equal",
+        "query_one": "rat",
+        "query_two": "car",
+        "output": False,
     },
 ]
 
@@ -20,12 +20,12 @@ failed_cases = 0
 total_cases = len(tests)
 
 for i, test in enumerate(tests):
-    print(f'Test Case {i + 1}:', test['test_case'])
-    print(f'Expected Output:', test['output'])
-    result = is_anagram(test['query_one'], test['query_two'])
-    print(f'Actual Output:', result)
-    
-    if result == test['output']:
+    print(f"Test Case {i + 1}:", test["test_case"])
+    print(f"Expected Output:", test["output"])
+    result = is_anagram(test["query_one"], test["query_two"])
+    print(f"Actual Output:", result)
+
+    if result == test["output"]:
         print("------ PASSED ------")
         passed_cases += 1
         print()
@@ -34,5 +34,5 @@ for i, test in enumerate(tests):
         failed_cases += 1
         print()
 
-print('*' * 100, '\n')
-print(f'Result: {passed_cases}/{total_cases} \n')
+print("*" * 100, "\n")
+print(f"Result: {passed_cases}/{total_cases} \n")

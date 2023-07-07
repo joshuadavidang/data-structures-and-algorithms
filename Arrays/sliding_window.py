@@ -1,5 +1,6 @@
 # maximum sum of a subarray of size k
 
+
 def maxSum(arr, k):
     # find the length of array
     n = len(arr)
@@ -8,7 +9,7 @@ def maxSum(arr, k):
     # return -1
     if n < k:
         return -1
-    
+
     # sum of initial window of size k
     initial_window = sum(arr[:k])
 
@@ -22,7 +23,7 @@ def maxSum(arr, k):
 
     return max_sum
 
+
 arr = [5, 2, -1, 0, 3]
 k = 3
 print(maxSum(arr, k))
-

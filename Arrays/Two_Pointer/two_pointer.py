@@ -6,5 +6,5 @@ def is_palindrome(str):
             return False
         l += 1
         r -= 1
-    
+
     return True

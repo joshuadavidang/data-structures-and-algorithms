@@ -1,7 +1,7 @@
 def is_anagram(s, t):
     if len(s) != len(t):
         return False
-    
+
     freq = {}
 
     for char in s:
@@ -17,9 +17,9 @@ def is_anagram(s, t):
                 return False
         else:
             return False
-        
+
     for value in freq.values():
         if value != 0:
             return False
-        
+
     return True
