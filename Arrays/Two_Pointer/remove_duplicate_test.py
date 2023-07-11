@@ -23,13 +23,11 @@ for i, test in enumerate(tests):
     print(f"Actual Output:", result)
 
     if result == test["output"]:
-        print("------ PASSED ------")
+        print("------ PASSED ------ \n")
         passed_cases += 1
-        print()
     else:
-        print("------ FAILED ------")
+        print("------ FAILED ------ \n")
         failed_cases += 1
-        print()
 
 print("*" * 100, "\n")
 print(f"Result: {passed_cases}/{total_cases} \n")
