@@ -1,4 +1,4 @@
-def searchMatrix(matrix, target):
+def search_matrix(matrix, target):
     rows, cols = len(matrix), len(matrix[0])
     top, bot = 0, rows - 1
 

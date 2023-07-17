@@ -1,4 +1,4 @@
-def longestConsecutive(nums):
+def longest_consecutive(nums):
     numSet = set(nums)
     longest = 0
 

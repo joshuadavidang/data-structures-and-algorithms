@@ -1,4 +1,4 @@
-def isPalindrome(s):
+def is_palindrome(s):
     updated_str = ""
     for ch in s:
         if ch.isalnum():

@@ -1,4 +1,4 @@
-from binary_search import binarySearch
+from binary_search import binary_search
 
 tests = [
     {"query": [[-1, 0, 3, 5, 9, 12], 9], "output": 4},

@@ -1,4 +1,4 @@
-from longest_consecutive import longestConsecutive
+from longest_consecutive import longest_consecutive
 
 tests = [
     {"query": [100, 4, 200, 1, 3, 2], "output": 4},
@@ -12,7 +12,7 @@ total_cases = len(tests)
 for i, test in enumerate(tests):
     print(f"Test Case {i + 1}")
     print(f"Expected Output:", test["output"])
-    result = longestConsecutive(test["query"])
+    result = longest_consecutive(test["query"])
     print(f"Actual Output:", result)
 
     if result == test["output"]:

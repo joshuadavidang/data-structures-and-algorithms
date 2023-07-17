@@ -1,4 +1,4 @@
-from is_palindrome import isPalindrome
+from is_palindrome import is_palindrome
 
 tests = [
     {"query": "A man, a plan, a canal: Panama", "output": True},
@@ -13,7 +13,7 @@ total_cases = len(tests)
 for i, test in enumerate(tests):
     print(f"Test Case {i + 1}")
     print(f"Expected Output:", test["output"])
-    result = isPalindrome(test["query"])
+    result = is_palindrome(test["query"])
     print(f"Actual Output:", result)
 
     if result == test["output"]:

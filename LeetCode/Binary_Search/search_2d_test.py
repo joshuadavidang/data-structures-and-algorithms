@@ -1,4 +1,4 @@
-from search_2d import searchMatrix
+from search_2d import search_matrix
 
 tests = [
     {"query": [[[1, 3, 5, 7], [10, 11, 16, 20], [23, 30, 34, 60]], 3], "output": True},
@@ -15,7 +15,7 @@ total_cases = len(tests)
 for i, test in enumerate(tests):
     print(f"Test Case {i + 1}")
     print(f"Expected Output:", test["output"])
-    result = searchMatrix(test["query"][0], test["query"][1])
+    result = search_matrix(test["query"][0], test["query"][1])
     print(f"Actual Output:", result)
 
     if result == test["output"]:
