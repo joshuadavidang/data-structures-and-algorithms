@@ -12,7 +12,7 @@ total_cases = len(tests)
 for i, test in enumerate(tests):
     print(f"Test Case {i + 1}")
     print(f"Expected Output:", test["output"])
-    result = binarySearch(test["query"][0], test["query"][1])
+    result = binary_search(test["query"][0], test["query"][1])
     print(f"Actual Output:", result)
 
     if result == test["output"]:
