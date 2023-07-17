@@ -3,6 +3,7 @@ from find_min import find_min
 tests = [
     {"query": [3, 4, 5, 1, 2], "output": 1},
     {"query": [4, 5, 6, 7, 0, 1, 2], "output": 0},
+    {"query": [1, 2, 3, 4, 5], "output": 1},
 ]
 
 passed_cases = 0
