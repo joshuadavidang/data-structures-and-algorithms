@@ -2,7 +2,11 @@
 
 ## Data Structures & Algorithms
 * [Arrays](https://github.com/joshuadavidang/data-structures-and-algorithms#arrays)
-
+* [Binary Search](https://github.com/joshuadavidang/data-structures-and-algorithms#binary-search)
+* [Sliding Window](https://github.com/joshuadavidang/data-structures-and-algorithms#sliding-window)
+* [Stack](https://github.com/joshuadavidang/data-structures-and-algorithms#stack)
+* [Two Pointers](https://github.com/joshuadavidang/data-structures-and-algorithms#two-pointers)
+ 
 ## Arrays
 | #  | Problem | Difficulty |
 | ------------- | ------------- | ------------- |
