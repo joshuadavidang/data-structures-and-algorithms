@@ -1,5 +1,8 @@
 # LeetCode
 
+## Data Structures & Algorithms
+* [Arrays](https://github.com/joshuadavidang/data-structures-and-algorithms#arrays)
+
 ## Arrays
 | #  | Problem | Difficulty |
 | ------------- | ------------- | ------------- |
