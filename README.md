@@ -10,15 +10,15 @@
 
 ## Arrays
 
-| #   | Problem                                                                                                              | Difficulty |
-| --- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                              | Easy       |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                        | Easy       |
-| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                  | Medium     |
-| 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                      | Medium     |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                          | Medium     |
-| 122 | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Medium     |
-| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                              | Medium     |
+| #   | Problem                                                                                                  | Difficulty |
+| --- | -------------------------------------------------------------------------------------------------------- | ---------- |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                  | Easy       |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                            | Easy       |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                      | Medium     |
+| 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                          | Medium     |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)              | Medium     |
+| 122 | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium     |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              | Medium     |
 
 ## Binary Search
 
@@ -48,4 +48,4 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                  | Easy       |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                    | Easy       |
 | 167 | [Two Sum 2 - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     |
-| 15  | [3 Sum](https://leetcode.com/problems/3sum/description/)                                             | Medium     |
+| 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                         | Medium     |
