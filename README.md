@@ -1,4 +1,4 @@
-# LeetCode
+## LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=joshdavidang)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Data Structures & Algorithms
