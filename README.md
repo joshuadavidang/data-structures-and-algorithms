@@ -1,4 +1,5 @@
 ## LeetCode
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=joshdavidang)](https://github.com/KnlnKS/leetcode-stats)
 
 ## Data Structures & Algorithms
@@ -15,7 +16,7 @@
 | --- | -------------------------------------------------------------------------------------------------------- | ---------- | ---- |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                  | Easy       | ✅   |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                            | Easy       | ❌   |
-| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                      | Medium     | ❌   |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                      | Medium     | ✅   |
 | 49  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                          | Medium     | ✅   |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)              | Medium     | ✅   |
 | 122 | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium     | ✅   |
