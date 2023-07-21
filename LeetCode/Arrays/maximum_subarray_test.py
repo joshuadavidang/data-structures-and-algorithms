@@ -4,6 +4,7 @@ tests = [
     {"query": [-2, 1, -3, 4, -1, 2, 1, -5, 4], "output": 6},
     {"query": [1], "output": 1},
     {"query": [5, 4, -1, 7, 8], "output": 23},
+    {"query": [-3, -4, 5, -1, 2, -4, 6, -1], "output": 8},
 ]
 
 passed_cases = 0

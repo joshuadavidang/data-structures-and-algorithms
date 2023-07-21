@@ -16,8 +16,4 @@ def valid_anagram(s, t):
         else:
             count_t[ch] += 1
 
-    for ch in count_s:
-        if count_s[ch] != count_t.get(ch, 0):
-            return False
-
-    return True
+    return count_s == count_t
