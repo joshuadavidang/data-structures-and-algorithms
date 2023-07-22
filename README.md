@@ -29,7 +29,7 @@
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | ✅   |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | Medium     | ❌   |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     | ✅   |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | ❌   |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | ✅   |
 
 ## Sliding Window
 

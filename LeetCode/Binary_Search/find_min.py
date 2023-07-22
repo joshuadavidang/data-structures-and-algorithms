@@ -5,14 +5,14 @@ def find_min(nums):
     while left <= right:
         if nums[left] <= nums[right]:
             result = min(result, nums[left])
-            break
+            return result
 
         mid = (left + right) // 2
-        result = min(result, nums[mid])
-
         if nums[mid] > nums[left]:
             left = mid + 1
         else:
             right = mid - 1
+
+        result = min(result, nums[mid])
 
     return result
