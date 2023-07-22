@@ -21,6 +21,7 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)              | Medium     | ✅   |
 | 122 | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium     | ✅   |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              | Medium     | ❌   |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                              | Medium     | ✅   |
 
 ## Binary Search
 
