@@ -23,7 +23,7 @@
 | 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                                | Medium     | ✅   |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                             | Medium     | ❌   |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                             | Medium     | ✅   |
-| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                             | Medium     | ❌   |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                             | Medium     | ✅   |
 
 ## Binary Search
 
