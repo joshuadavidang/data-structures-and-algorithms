@@ -30,7 +30,7 @@
 
 | #   | Problem                                                                                        | Difficulty | Flag |
 | --- | ---------------------------------------------------------------------------------------------- | ---------- | ---- |
-| 804 | [Unique Morse Code Words] (https://leetcode.com/problems/unique-morse-code-words/)             | Easy       | ✅   |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)              | Easy       | ✅   |
 | 557 | [Reverse Words in a Strings III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
 | 151 | [Reverse Words in a Strings](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
 
