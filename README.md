@@ -18,6 +18,7 @@
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                                 | Easy       | ✅   |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                           | Easy       | ✅   |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | Easy       | ✅   |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)                     | Easy       | ✅   |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                                     | Medium     | ✅   |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                         | Medium     | ✅   |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                             | Medium     | ✅   |
