@@ -28,11 +28,12 @@
 
 ## Strings
 
-| #   | Problem                                                                                        | Difficulty | Flag |
-| --- | ---------------------------------------------------------------------------------------------- | ---------- | ---- |
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)              | Easy       | ✅   |
-| 557 | [Reverse Words in a Strings III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
-| 151 | [Reverse Words in a Strings](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
+| #    | Problem                                                                                        | Difficulty | Flag |
+| ---- | ---------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)              | Easy       | ✅   |
+| 1859 | (Sorting the Sentence)[https://leetcode.com/problems/sorting-the-sentence/]                    | Easy       | ✅   |
+| 557  | [Reverse Words in a Strings III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
+| 151  | [Reverse Words in a Strings](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
 
 ## Binary Search
 
@@ -60,6 +61,7 @@
 | #   | Problem                                                                                               | Difficulty | Flag |
 | --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | ✅   |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | ✅   |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | ✅   |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   |
