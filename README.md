@@ -66,6 +66,7 @@
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | ✅   |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/description/)                                 | Medium     | ✅   |
 
 ## Linked List
 
