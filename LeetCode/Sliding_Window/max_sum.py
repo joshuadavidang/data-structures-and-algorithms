@@ -2,8 +2,7 @@ def max_sum(nums, k):
     if len(nums) < k:
         return -1
 
-    maxSum = 0
-    windowSum = sum(nums[:k])
+    maxSum = windowSum = sum(nums[:k])
 
     for i in range(k, len(nums)):
         windowSum = windowSum - nums[i - k] + nums[i]
