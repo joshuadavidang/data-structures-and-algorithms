@@ -48,9 +48,10 @@
 
 ## Sliding Window
 
-| #   | Problem                                                                                            | Difficulty | Flag |
-| --- | -------------------------------------------------------------------------------------------------- | ---------- | ---- |
-| 121 | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | ✅   |
+| #    | Problem                                                                                                                                           | Difficulty | Flag |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 121  | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                | Easy       | ✅   |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy       | ✅   |
 
 ## Stack
 
