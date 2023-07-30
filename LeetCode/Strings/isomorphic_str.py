@@ -2,19 +2,19 @@ def isIsomorphic(s, t):
     if len(s) != len(t):
         return False
 
-    map_s, map_t = {}, {}
+    s_map, t_map = {}, {}
 
-    for i, s_value in enumerate(s):
-        if s_value in map_s:
-            if map_s[s_value] != t[i]:
-                return False
-        else:
-            map_s[s_value] = t[i]
+    for i, s_val in enumerate(s):
+        if s_val not in s_map:
+            s_map[s_val] = t[i]
 
-        if t[i] in map_t:
-            if map_t[t[i]] != s_value:
-                return False
-        else:
-            map_t[t[i]] = s_value
+        elif s_map[s_val] != t[i]:
+            return False
+
+        if t[i] not in t_map:
+            t_map[t[i]] = s_val
+
+        elif t_map[t[i]] != s_val:
+            return False
 
     return True

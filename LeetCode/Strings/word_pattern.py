@@ -4,22 +4,20 @@ def wordPattern(pattern, s):
     if len(pattern) != len(words):
         return False
 
-    char_to_word, word_to_char = {}, {}
+    ch_to_word, word_to_ch = {}, {}
 
     for i in range(len(pattern)):
-        char = pattern[i]
+        ch = pattern[i]
         word = words[i]
 
-        if char in char_to_word:
-            if char_to_word[char] != word:
-                return False
-        else:
-            char_to_word[char] = word
+        if ch not in ch_to_word:
+            ch_to_word[ch] = word
+        elif ch_to_word[ch] != word:
+            return False
 
-        if word in word_to_char:
-            if word_to_char[word] != char:
-                return False
-        else:
-            word_to_char[word] = char
+        if word not in word_to_ch:
+            word_to_ch[word] = ch
+        elif word_to_ch[word] != ch:
+            return False
 
     return True
