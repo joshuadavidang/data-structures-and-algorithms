@@ -34,7 +34,7 @@
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)              | Easy       | ✅   |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                    | Easy       | ✅   |
 | 557  | [Reverse Words in a Strings III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
-| 151  | [Reverse Words in a Strings](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
 
 ## Binary Search
 
