@@ -53,6 +53,7 @@
 | 121  | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                | Easy       | ✅   |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/) | Easy       | ✅   |
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                               | Easy       | ✅   |
+| 209  | [Minimum Size Subarray Sum] (https://leetcode.com/problems/minimum-size-subarray-sum/)                                                            | Medium     | ❌   |
 
 ## Stack
 
