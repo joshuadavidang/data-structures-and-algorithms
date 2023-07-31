@@ -38,6 +38,7 @@
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ❌   |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ❌   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)           | Medium     | ✅   |
 
 ## Binary Search
 
