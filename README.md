@@ -35,8 +35,8 @@
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   | `null`   |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                       | Easy       | ✅   | `null`   |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                     | Easy       | ✅   | `Yes`    |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ❌   | `null`   |
-| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ❌   | `null`   |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ✅   | `null`   |
+| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ✅   | `null`   |
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                         | Easy       | ❌   | `null`   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   | `null`   |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)           | Medium     | ✅   | `null`   |
