@@ -75,8 +75,7 @@
 | 167   | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   | `null`   |
 | 15    | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   | `null`   |
 | 75    | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | ✅   | `Yes`    |
-| 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string//)        | Medium     | ✅   |
-| `Yes` |
+| 438   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string//)        | Medium     | ✅   | `Yes` |
 
 ## Linked List
 
