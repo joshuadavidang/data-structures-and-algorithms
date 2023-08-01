@@ -23,12 +23,12 @@ def findAnagrams(s, p):
     k = len(p)
 
     for right in range(k, len(s)):
+        s_count[s[left]] -= 1
+
         if s[right] not in s_count:
             s_count[s[right]] = 1
         else:
             s_count[s[right]] += 1
-
-        s_count[s[left]] -= 1
 
         if s_count[s[left]] == 0:
             s_count.pop(s[left])
