@@ -13,8 +13,8 @@
 
 ## Arrays
 
-| #    | Problem                                                                                                                                     | Difficulty | Flag | Grind 75 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
+| #    | Problem                                                                                                                                     | Difficulty | Flag |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | ✅   |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | ✅   |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | ✅   |
