@@ -15,74 +15,74 @@
 
 | #    | Problem                                                                                                                                     | Difficulty | Flag | Grind 75 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | ✅   | `Yes`    |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | ✅   | `Yes`    |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | ✅   | `null`   |
-| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | ✅   | `null`   |
-| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | ✅   | `Yes`    |
-| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | ✅   | `Yes`    |
-| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | ✅   | `null`   |
-| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | ✅   | `null`   |
-| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | Medium     | ❌   | `Yes`    |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     | ✅   | `Yes`    |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | ✅   |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | ✅   |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | ✅   |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | ✅   |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | ✅   |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | ✅   |
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | ✅   |
+| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | ✅   |
+| 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | Medium     | ❌   |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     | ✅   |
 
 ## Strings
 
-| #    | Problem                                                                                       | Difficulty | Flag | Grind 75 |
-| ---- | --------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)             | Easy       | ✅   | `null`   |
-| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                   | Easy       | ✅   | `null`   |
-| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   | `null`   |
-| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                       | Easy       | ✅   | `null`   |
-| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                     | Easy       | ✅   | `Yes`    |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ✅   | `null`   |
-| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ✅   | `null`   |
-| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                   | Easy       | ✅   | `null`   |
-| 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                         | Easy       | ❌   | `null`   |
-| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   | `null`   |
-| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)           | Medium     | ✅   | `null`   |
+| #    | Problem                                                                                       | Difficulty | Flag |
+| ---- | --------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)             | Easy       | ✅   |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                   | Easy       | ✅   |
+| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                       | Easy       | ✅   |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                     | Easy       | ✅   |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ✅   |
+| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ✅   |
+| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                   | Easy       | ✅   |
+| 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                         | Easy       | ❌   |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)           | Medium     | ✅   |
 
 ## Binary Search
 
-| #   | Problem                                                                                                     | Difficulty | Flag | Grind 75 |
-| --- | ----------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | ✅   | `Yes`    |
-| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | Medium     | ❌   | `Yes`    |
-| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     | ✅   | `null`   |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | ✅   | `Yes`    |
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                       | Medium     | ✅   | `null`   |
+| #   | Problem                                                                                                     | Difficulty | Flag |
+| --- | ----------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | ✅   |
+| 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | Medium     | ❌   |
+| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     | ✅   |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | ✅   |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                       | Medium     | ✅   |
 
 ## Sliding Window
 
-| #    | Problem                                                                                                                               | Difficulty | Flag | Grind 75 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 121  | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    | Easy       | ✅   | `Yes`    |
-| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy       | ✅   | `null`   |
-| 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Easy       | ✅   | `null`   |
-| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                 | Medium     | ❌   | `null`   |
+| #    | Problem                                                                                                                               | Difficulty | Flag |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 121  | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    | Easy       | ✅   |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy       | ✅   |
+| 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Easy       | ✅   |
+| 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                 | Medium     | ❌   |
 
 ## Stack
 
-| #   | Problem                                                               | Difficulty | Flag | Grind 75 |
-| --- | --------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       | ❌   | `Yes`    |
+| #   | Problem                                                               | Difficulty | Flag |
+| --- | --------------------------------------------------------------------- | ---------- | ---- |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       | ❌   |
 
 ## Two Pointers
 
-| #   | Problem                                                                                               | Difficulty | Flag | Grind 75 |
-| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | ✅   | `Yes`    |
-| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | ✅   | `null`   |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | ✅   | `Yes`    |
-| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | ✅   | `null`   |
-| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | ❌   | `null`   |
-| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   | `null`   |
-| 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   | `null`   |
-| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | ✅   | `Yes`    |
-| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string//)        | Medium     | ✅   | `Yes`    |
+| #   | Problem                                                                                               | Difficulty | Flag |
+| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | ✅   |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | ✅   |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | ✅   |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | ✅   |
+| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | ❌   |
+| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   |
+| 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | ✅   |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string//)        | Medium     | ✅   |
 
 ## Linked List
 
-| #   | Problem                                                                   | Difficulty | Flag | Grind 75 |
-| --- | ------------------------------------------------------------------------- | ---------- | ---- | -------- |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       | ❌   | `null`   |
+| #   | Problem                                                                   | Difficulty | Flag |
+| --- | ------------------------------------------------------------------------- | ---------- | ---- |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       | ❌   |
