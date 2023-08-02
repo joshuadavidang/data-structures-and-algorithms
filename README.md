@@ -75,6 +75,7 @@
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | ✅   | `null`   |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | ✅   | `Yes`    |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | ✅   | `null`   |
+| 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | ❌   | `null`   |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | ✅   | `null`   |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | ❌   | `null`   |
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | ✅   | `Yes`    |
