@@ -28,19 +28,20 @@
 
 ## Strings
 
-| #    | Problem                                                                                       | Difficulty | Flag |
-| ---- | --------------------------------------------------------------------------------------------- | ---------- | ---- |
-| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)             | Easy       | ✅   |
-| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                   | Easy       | ✅   |
-| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy       | ✅   |
-| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                       | Easy       | ✅   |
-| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                     | Easy       | ✅   |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                       | Easy       | ✅   |
-| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                    | Easy       | ✅   |
-| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                   | Easy       | ✅   |
-| 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                         | Easy       | ❌   |
-| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)         | Medium     | ✅   |
-| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)           | Medium     | ✅   |
+| #    | Problem                                                                                                  | Difficulty | Flag |
+| ---- | -------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                        | Easy       | ✅   |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                              | Easy       | ✅   |
+| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)            | Easy       | ✅   |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                                  | Easy       | ✅   |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                | Easy       | ✅   |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                  | Easy       | ✅   |
+| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                               | Easy       | ✅   |
+| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                              | Easy       | ✅   |
+| 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                    | Easy       | ❌   |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy       | ✅   |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                    | Medium     | ✅   |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                      | Medium     | ✅   |
 
 ## Binary Search
 
