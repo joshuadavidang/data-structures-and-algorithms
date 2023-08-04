@@ -4,7 +4,7 @@ def replaceDigits(s):
         mapping = {}
 
         for i in range(len(alphabets)):
-            mapping[alphabets[i]] = i + 1
+            mapping[alphabets[i]] = i
 
         reversedMapping = {}
 
