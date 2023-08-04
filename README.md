@@ -44,7 +44,7 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | ✅   | `3 Aug`  | `4 Aug`   |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       | ✅   | `4 Aug`  | `4 Aug`   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | ✅   | `24 Jul` | `4 Aug`   |
-| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | ✅   |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | ✅   | `31 Jul` | `4 Aug`   |
 
 ## Binary Search
 
