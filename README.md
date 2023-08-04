@@ -42,6 +42,7 @@
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | ✅   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy       | ✅   |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | ✅   |
+| 1160 | [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)    | Easy       | ✅   |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | ✅   |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | ✅   |
 
