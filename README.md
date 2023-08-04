@@ -13,8 +13,8 @@
 
 ## Arrays
 
-| #    | Problem                                                                                                                                     | Difficulty | Date |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| #    | Problem                                                                                                                                     | Difficulty | Date | Session 1 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       |      |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       |      |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       |      |
@@ -48,8 +48,8 @@
 
 ## Binary Search
 
-| #   | Problem                                                                                                     | Difficulty | Date |
-| --- | ----------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| #   | Problem                                                                                                     | Difficulty | Date | Session 1 |
+| --- | ----------------------------------------------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       |      |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | Medium     |      |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     |      |
@@ -58,8 +58,8 @@
 
 ## Sliding Window
 
-| #    | Problem                                                                                                                               | Difficulty | Date |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| #    | Problem                                                                                                                               | Difficulty | Date | Session 1 |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 121  | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    | Easy       |      |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy       |      |
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Easy       |      |
@@ -67,14 +67,14 @@
 
 ## Stack
 
-| #   | Problem                                                               | Difficulty | Date |
-| --- | --------------------------------------------------------------------- | ---------- | ---- |
+| #   | Problem                                                               | Difficulty | Date | Session 1 |
+| --- | --------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       |      |
 
 ## Two Pointers
 
-| #   | Problem                                                                                               | Difficulty | Date |
-| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| #   | Problem                                                                                               | Difficulty | Date | Session 1 |
+| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       |      |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       |      |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       |      |
@@ -87,6 +87,6 @@
 
 ## Linked List
 
-| #   | Problem                                                                   | Difficulty | Date |
-| --- | ------------------------------------------------------------------------- | ---------- | ---- |
+| #   | Problem                                                                   | Difficulty | Date | Session 1 |
+| --- | ------------------------------------------------------------------------- | ---------- | ---- | --------- |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       |      |
