@@ -28,8 +28,8 @@
 
 ## Strings
 
-| #    | Problem                                                                                                                           | Difficulty | Flag | Date   | Session 1 |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | ------ | --------- |
+| #    | Problem                                                                                                                           | Difficulty | Flag | Date     | Session 1 |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | -------- | --------- |
 | 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                 | Easy       | ✅   |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                       | Easy       | ✅   |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                     | Easy       | ✅   |
@@ -41,9 +41,9 @@
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                                             | Easy       | ❌   |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | ✅   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy       | ✅   |
-| 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | ✅   | 3 Aug  | 4 Aug     |
-| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       | ✅   | 4 Aug  | 4 Aug     |
-| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | ✅   | 24 Jul | 4 Aug     |
+| 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | ✅   | `3 Aug`  | `4 Aug`   |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       | ✅   | `4 Aug`  | 4 Aug`    |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | ✅   | `24 Jul` | `4 Aug`   |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | ✅   |
 
 ## Binary Search
