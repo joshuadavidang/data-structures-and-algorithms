@@ -50,7 +50,7 @@
 
 | #   | Problem                                                                                                     | Difficulty | Date     | Session 1 |
 | --- | ----------------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | `14 Jul` |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | Easy       | `14 Jul` | `5 Aug`   |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | Medium     | `17 Jul` |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     | `17 Jul` |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | `22 Jul` |
