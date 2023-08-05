@@ -15,10 +15,10 @@
 
 | #    | Problem                                                                                                                                     | Difficulty | Date     | Session 1 |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
-| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | `12 Jul` |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | `21 Jul` |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | `12 Jul` | `5 Aug`   |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | `21 Jul` | `5 Aug`   |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | `24 Jul` |
-| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | `26 Jul` |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | `26 Jul` | `5 Aug`   |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | `20 Jul` |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | `21 Jul` |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | `18 Jul` |
