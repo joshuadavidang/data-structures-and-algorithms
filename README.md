@@ -39,7 +39,7 @@
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                        | Easy       | `30 Jul` | `5 Aug`   |
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                       | Easy       | `2 Aug`  |
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                                             | Easy       | `1 Aug`  |
-| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | `3 Aug`  |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | `3 Aug`  | `5 Aug`   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy       | `3 Aug`  |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | `3 Aug`  | `4 Aug`   |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       | `4 Aug`  | `4 Aug`   |
