@@ -37,7 +37,7 @@
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                         | Easy       | `31 Jul` | `5 Aug`   |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                           | Easy       | `30 Jul` |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                        | Easy       | `30 Jul` | `5 Aug`   |
-| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                       | Easy       | `2 Aug`  |
+| 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                       | Easy       | `2 Aug`  | `5 Aug`   |
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                                             | Easy       | `1 Aug`  |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | `3 Aug`  | `5 Aug`   |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy       | `3 Aug`  |
