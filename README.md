@@ -36,7 +36,7 @@
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                     | Easy       | `24 Jul` | `5 Aug`   |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                                                           | Easy       | `31 Jul` |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                         | Easy       | `31 Jul` | `5 Aug`   |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                           | Easy       | `30 Jul` |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                           | Easy       | `30 Jul` | `6 Aug`   |
 | 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                        | Easy       | `30 Jul` | `5 Aug`   |
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                       | Easy       | `2 Aug`  | `5 Aug`   |
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                                             | Easy       | `1 Aug`  |
@@ -81,7 +81,7 @@
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | `12 Jul` |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | `2 Aug`  | `6 Aug`   |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | `2 Aug`  |
-| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | `14 Jul` |
+| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | `14 Jul` | `6 Aug`   |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | `20 Jul` |
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | `27 Jul` |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)         | Medium     | `1 Aug`  |
