@@ -19,6 +19,7 @@
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | `21 Jul` | `5 Aug`   |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | `24 Jul` |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | `26 Jul` | `5 Aug`   |
+| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                     | Easy       | `6 Aug`  |           |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | `20 Jul` |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | `21 Jul` |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | `18 Jul` |
@@ -75,10 +76,10 @@
 
 | #   | Problem                                                                                               | Difficulty | Date     | Session 1 |
 | --- | ----------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | `13 Jul` |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | `13 Jul` | `6 Aug`   |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | `25 Jul` |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | `12 Jul` |
-| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | `2 Aug`  |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | `2 Aug`  | `6 Aug`   |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | `2 Aug`  |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | `14 Jul` |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | `20 Jul` |
