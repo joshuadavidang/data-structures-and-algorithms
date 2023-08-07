@@ -78,12 +78,12 @@
 | --- | ----------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | `13 Jul` | `6 Aug`   |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | `25 Jul` |
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | `12 Jul` |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | `12 Jul` | `7 Aug`   |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | `2 Aug`  | `6 Aug`   |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | `2 Aug`  |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | `14 Jul` | `6 Aug`   |
 | 15  | [3 Sum](https://leetcode.com/problems/3sum/)                                                          | Medium     | `20 Jul` |
-| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | `27 Jul` |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     | `27 Jul` | `7 Aug`   |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)         | Medium     | `1 Aug`  |
 
 ## Linked List
