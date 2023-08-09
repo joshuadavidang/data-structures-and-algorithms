@@ -23,7 +23,7 @@
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | `20 Jul` | `7 Aug`   |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | `21 Jul` | `7 Aug`   |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | `18 Jul` |
-| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | `19 Jul` |
+| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | `19 Jul` | `9 Aug`   |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | Medium     | `20 Jul` |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     | `22 Jul` | `7 Aug`   |
 
@@ -77,7 +77,7 @@
 | #   | Problem                                                                                               | Difficulty | Date     | Session 1 |
 | --- | ----------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | `13 Jul` | `6 Aug`   |
-| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | `25 Jul` |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                             | Easy       | `25 Jul` | `9 Aug`   |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | `12 Jul` | `7 Aug`   |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)                           | Easy       | `2 Aug`  | `6 Aug`   |
 | 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/)                                              | Easy       | `2 Aug`  |
