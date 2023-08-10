@@ -65,6 +65,7 @@
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy       | `29 Jul` | `8 Aug`   |
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                                               | Easy       | `29 Jul` | `8 Aug`   |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                 | Medium     | `30 Jul` |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)                                       | Medium     | `10 Aug` |
 
 ## Stack
 
