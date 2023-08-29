@@ -13,19 +13,19 @@
 
 ## Arrays
 
-| #    | Problem                                                                                                                                     | Difficulty | Date     | Session 1 |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
-| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | `12 Jul` | `5 Aug`   |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | `21 Jul` | `5 Aug`   |
-| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | `24 Jul` | `7 Aug`   |
-| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | `26 Jul` | `5 Aug`   |
-| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                     | Easy       | `6 Aug`  |           |
-| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | `20 Jul` | `7 Aug`   |
-| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | `21 Jul` | `7 Aug`   |
+| #    | Problem                                                                                                                                     | Difficulty | Date     | Update   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | -------- |
+| 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                     | Easy       | `12 Jul` | `29 Aug` |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                               | Easy       | `21 Jul` | `29 Aug` |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy       | `24 Jul` | `29 Aug` |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                     | Easy       | `26 Jul` | `29 Aug` |
+| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                     | Easy       | `6 Aug`  |          |
+| 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                         | Medium     | `20 Jul` | `7 Aug`  |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                             | Medium     | `21 Jul` | `29 Aug` |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                                 | Medium     | `18 Jul` |
-| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | `19 Jul` | `9 Aug`   |
+| 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     | `19 Jul` | `9 Aug`  |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | Medium     | `20 Jul` |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     | `22 Jul` | `7 Aug`   |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     | `22 Jul` | `29 Aug` |
 
 ## Strings
 
