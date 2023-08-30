@@ -31,13 +31,13 @@
 
 | #    | Problem                                                                                                                           | Difficulty | Date     | Session 1 |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | --------- |
-| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                 | Easy       | `25 Jul` | `29 Aug`  |
-| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                       | Easy       | `26 Jul` | `29 Aug`  |
-| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                     | Easy       | `24 Jul` | `29 Aug`  |
+| 804  | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)                                                 | Easy       | `25 Jul` | `30 Aug`  |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)                                                       | Easy       | `26 Jul` | `30 Aug`  |
+| 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                     | Easy       | `24 Jul` | `30 Aug`  |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)                                                           | Easy       | `31 Jul` | `7 Aug`   |
-| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                         | Easy       | `31 Jul` | `29 Aug`  |
-| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                           | Easy       | `30 Jul` | `6 Aug`   |
-| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                        | Easy       | `30 Jul` | `5 Aug`   |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                         | Easy       | `31 Jul` | `30 Aug`  |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                           | Easy       | `30 Jul` | `30 Aug`  |
+| 290  | [Word Pattern](https://leetcode.com/problems/word-pattern)                                                                        | Easy       | `30 Jul` | `30 Aug`  |
 | 500  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                       | Easy       | `2 Aug`  | `5 Aug`   |
 | 925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)                                                             | Easy       | `1 Aug`  |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs)                          | Easy       | `3 Aug`  | `5 Aug`   |
@@ -45,8 +45,8 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       | `3 Aug`  | `4 Aug`   |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       | `4 Aug`  | `4 Aug`   |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                               | Easy       | `11 Aug` |           |
-| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | `24 Jul` | `4 Aug`   |
-| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | `31 Jul` | `4 Aug`   |
+| 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     | `24 Jul` | `30 Aug`  |
+| 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     | `31 Jul` | `30 Aug`  |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips)                                                        | Medium     | `23 Aug` |
 
 ## Binary Search
