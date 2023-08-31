@@ -18,3 +18,24 @@ def isIsomorphic(s, t):
             return False
 
     return True
+
+
+def isIsomorphic(s, t):
+    if len(s) != len(t):
+        return False
+
+    map_s, map_t = {}, {}
+    s_result = []
+    t_result = []
+
+    for i, ch in enumerate(s):
+        if ch not in map_s:
+            map_s[ch] = i
+        s_result.append(map_s[ch])
+
+    for i, ch in enumerate(t):
+        if ch not in map_t:
+            map_t[ch] = i
+        t_result.append(map_t[ch])
+
+    return s_result == t_result
