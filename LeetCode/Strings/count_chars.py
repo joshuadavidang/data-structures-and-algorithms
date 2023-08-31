@@ -1,5 +1,5 @@
 def countCharacters(words, chars):
-    def mapCount(mapping, str):
+    def mapCount(str):
         mapping = {}
         for ch in str:
             if ch not in mapping:
@@ -8,11 +8,11 @@ def countCharacters(words, chars):
                 mapping[ch] += 1
         return mapping
 
-    chars_map = mapCount({}, chars)
+    chars_map = mapCount(chars)
     total_sum = 0
 
     for word in words:
-        word_map = mapCount({}, word)
+        word_map = mapCount(word)
         is_good_str = True
         for key, value in word_map.items():
             if key not in chars_map or value > chars_map[key]:
