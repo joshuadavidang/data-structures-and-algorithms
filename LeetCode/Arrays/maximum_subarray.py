@@ -1,15 +1,15 @@
 def maximum_subarray(nums):
-    if not nums:
+    if len(nums) == 0:
         return 0
 
-    maxSub = nums[0]
     totalSum = 0
+    maxSum = nums[0]
 
     for num in nums:
+        totalSum += num
+        maxSum = max(maxSum, totalSum)
+
         if totalSum < 0:
             totalSum = 0
 
-        totalSum += num
-        maxSub = max(maxSub, totalSum)
-
-    return maxSub
+    return maxSum
