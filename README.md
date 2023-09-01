@@ -10,6 +10,8 @@
 - [Sliding Window](https://github.com/joshuadavidang/data-structures-and-algorithms#sliding-window)
 - [Stack](https://github.com/joshuadavidang/data-structures-and-algorithms#stack)
 - [Two Pointers](https://github.com/joshuadavidang/data-structures-and-algorithms#two-pointers)
+- [Dynamic Programming](https://github.com/joshuadavidang/data-structures-and-algorithms#dynamic-programming)
+- [Recursion](https://github.com/joshuadavidang/data-structures-and-algorithms#recursion)
 
 ## Arrays
 
@@ -96,3 +98,15 @@
 | #   | Problem                                                                   | Difficulty | Date     | Update |
 | --- | ------------------------------------------------------------------------- | ---------- | -------- | ------ |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       | `20 Jul` |
+
+## Dynamic Programming
+
+| #   | Problem | Difficulty | Date | Update |
+| --- | ------- | ---------- | ---- | ------ |
+|     |         |            |      |
+
+## Recursion
+
+| #   | Problem | Difficulty | Date | Update |
+| --- | ------- | ---------- | ---- | ------ |
+|     |         |            |      |
