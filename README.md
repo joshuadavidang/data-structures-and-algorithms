@@ -72,9 +72,10 @@
 
 ## Stack
 
-| #   | Problem                                                               | Difficulty | Date     | Update |
-| --- | --------------------------------------------------------------------- | ---------- | -------- | ------ |
-| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy       | `18 Jul` |
+| #   | Problem                                                                                              | Difficulty | Date     | Update  |
+| --- | ---------------------------------------------------------------------------------------------------- | ---------- | -------- | ------- |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                | Easy       | `18 Jul` |
+| 150 | [Evaluate Reverse Polish Notation ](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium     | `31 Aug` | `1 Sep` |
 
 ## Two Pointers
 

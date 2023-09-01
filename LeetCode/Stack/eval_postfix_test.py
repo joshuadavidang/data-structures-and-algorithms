@@ -1,8 +1,11 @@
 from eval_postfix import evalPostfix
 
 tests = [
+    {"query": "", "output": 0},
     {"query": "84-", "output": 4},
     {"query": "231*+9-", "output": -4},
+    {"query": "34+", "output": 7},
+    {"query": "34-5+", "output": 4},
 ]
 
 passed_cases = 0
