@@ -1,4 +1,4 @@
-from binary_search_recursive import binarySearch
+from binarySearch import binarySearch
 
 tests = [
     {"query": [[-1, 0, 3, 5, 9, 12], 9], "output": 4},
