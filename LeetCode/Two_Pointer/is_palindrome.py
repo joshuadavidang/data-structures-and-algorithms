@@ -12,4 +12,5 @@ def is_palindrome(s):
             return False
         left += 1
         right -= 1
+
     return True
