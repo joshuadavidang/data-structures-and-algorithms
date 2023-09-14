@@ -22,7 +22,9 @@ assert result == [3, 2, 1]
 
 
 def sortArr(arr):
-    """Write a program to sort the given array"""
+    """
+    Write a program to sort the given array
+    """
 
     if len(arr) == 1:
         return arr
@@ -83,8 +85,6 @@ assert result == [0, 0, 1, 1, 2, 2]
 
 def binarySearch(arr, target):
     left, right = 0, len(arr) - 1
-    count = 0
-
     while left <= right:
         mid = (left + right) // 2
 
@@ -121,7 +121,7 @@ def countOccurence(arr, target):
     return count
 
 
-data = [1, 1, 2, 2, 2, 2, 3]
+data = [1, 1, 2, 2, 2, 2, 2, 3]
 target = 2
 result = countOccurence(data, target)
-assert result == 4
+assert result == 5
