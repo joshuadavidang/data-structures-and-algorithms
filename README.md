@@ -100,9 +100,9 @@
 
 ## Dynamic Programming
 
-| #                                                                      | Problem | Difficulty | Date     | Update |
-| ---------------------------------------------------------------------- | ------- | ---------- | -------- | ------ |
-| 53 [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium  | `20 Jul`   | `31 Aug` |
+| #   | Problem                                                             | Difficulty | Date     | Update   |
+| --- | ------------------------------------------------------------------- | ---------- | -------- | -------- |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium     | `20 Jul` | `31 Aug` |
 
 ## Recursion
 
