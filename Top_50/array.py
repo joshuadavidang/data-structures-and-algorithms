@@ -125,3 +125,23 @@ data = [1, 1, 2, 2, 2, 2, 2, 3]
 target = 2
 result = countOccurence(data, target)
 assert result == 5
+
+
+def zigZag(arr):
+    """
+    Given an array of distinct elements of size N, the task is to rearrange the elements of the array in a zig-zag fashion
+    so that the converted array should be in the below form:
+    """
+
+    arr.sort()
+
+    i = 1
+    while i < len(arr) - 1:
+        arr[i], arr[i + 1] = arr[i + 1], arr[i]
+        i += 2
+
+    return arr
+
+
+data = [4, 3, 7, 8, 6, 2, 1]
+assert zigZag(data) == [1, 3, 2, 6, 4, 8, 7]
