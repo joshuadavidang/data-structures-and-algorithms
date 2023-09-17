@@ -145,3 +145,34 @@ def zigZag(arr):
 
 data = [4, 3, 7, 8, 6, 2, 1]
 assert zigZag(data) == [1, 3, 2, 6, 4, 8, 7]
+
+
+def rotateArray(arr, k):
+    # [1, 2, 3, 4, 5, 6, 7]
+
+    left, right = 0, len(arr) - 1
+    while left < right:
+        arr[left], arr[right] = arr[right], arr[left]
+        left += 1
+        right -= 1
+
+    # [7, 6, 5, 4, 3, 2, 1]
+    left, right = 0, k - 1
+    while left < right:
+        arr[left], arr[right] = arr[right], arr[left]
+        left += 1
+        right -= 1
+
+    # [5, 6, 7, 4, 3, 2, 1]
+    left, right = k, len(arr) - 1
+    while left < right:
+        arr[left], arr[right] = arr[right], arr[left]
+        left += 1
+        right -= 1
+
+    return arr
+
+
+data = [1, 2, 3, 4, 5, 6, 7]
+k = 3
+assert rotateArray(data, k) == [5, 6, 7, 1, 2, 3, 4]
