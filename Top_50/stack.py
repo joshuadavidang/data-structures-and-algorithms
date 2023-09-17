@@ -7,11 +7,8 @@ def reverseStr(str):
     Given a string, reverse it using stack.
     """
 
-    stack = []
+    stack = list(str)
     result = ""
-
-    for ch in str:
-        stack.append(ch)
 
     while stack:
         result += stack.pop()
@@ -43,10 +40,7 @@ assert isValid(data) == True
 
 
 def reverseArr(data):
-    stack = []
-    for element in data:
-        stack.append(element)
-
+    stack = list(data)
     result = []
 
     while stack:
@@ -57,22 +51,6 @@ def reverseArr(data):
 
 arr = [1, 5, 7, 12, 15]
 assert reverseArr(arr) == [15, 12, 7, 5, 1]
-
-
-def reverseStr(word):
-    stack = []
-    for ch in word:
-        stack.append(ch)
-
-    result = ""
-    while stack:
-        result += stack.pop()
-
-    return result
-
-
-str = "Hello"
-assert reverseStr(str) == "olleH"
 
 
 def evaluateStr(str):
