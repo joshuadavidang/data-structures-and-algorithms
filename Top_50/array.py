@@ -148,6 +148,7 @@ assert zigZag(data) == [1, 3, 2, 6, 4, 8, 7]
 
 
 def rotateArray(arr, k):
+    k = k % len(arr)
     # [1, 2, 3, 4, 5, 6, 7]
 
     left, right = 0, len(arr) - 1
@@ -176,3 +177,69 @@ def rotateArray(arr, k):
 data = [1, 2, 3, 4, 5, 6, 7]
 k = 3
 assert rotateArray(data, k) == [5, 6, 7, 1, 2, 3, 4]
+
+
+def twoSums(nums, target):
+    mapping = {}
+    for i, num in enumerate(nums):
+        diff = target - num
+        if diff not in mapping:
+            mapping[num] = i
+        else:
+            return [mapping[diff], i]
+
+    return None
+
+
+data = [2, 7, 11, 15]
+target = 9
+
+assert twoSums(data, target) == [0, 1]
+
+
+def twoSumSecondMethod(nums, target):
+    numsTuple = []
+    for i, num in enumerate(nums):
+        numsTuple.append((num, i))
+
+    numsTuple.sort()
+
+    left, right = 0, len(numsTuple) - 1
+    while left < right:
+        leftNum, leftIndx = numsTuple[left]
+        rightNum, rightIndx = numsTuple[right]
+        currSum = leftNum + rightNum
+
+        if currSum == target:
+            return [leftIndx, rightIndx]
+        elif currSum < target:
+            left += 1
+        else:
+            right -= 1
+
+    return None
+
+
+data = [2, 7, 11, 15]
+target = 9
+assert twoSumSecondMethod(data, target) == [0, 1]
+
+
+def twoSumSorted(nums, target):
+    left, right = 0, len(nums) - 1
+    while left < right:
+        currSum = nums[left] + nums[right]
+        if currSum == target:
+            return [left + 1, right + 1]
+        elif currSum < target:
+            left += 1
+        else:
+            right -= 1
+
+    return None
+
+
+data = [2, 7, 11, 15]
+target = 9
+
+assert twoSumSorted(data, target) == [1, 2]
