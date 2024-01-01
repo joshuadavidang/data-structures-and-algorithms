@@ -46,6 +46,7 @@
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)                           | Easy       |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)          | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                               | Easy       |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)   | Easy       |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                             | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                               | Medium     |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips)                                                        | Medium     |
