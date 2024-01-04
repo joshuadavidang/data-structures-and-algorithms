@@ -27,6 +27,7 @@
 | 122  | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                    | Medium     |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                 | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     |
 
 ## Strings
 
