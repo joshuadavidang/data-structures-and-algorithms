@@ -1,6 +1,6 @@
-## LeetCode
+<div id="top-div" />
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=joshdavidang)](https://github.com/KnlnKS/leetcode-stats)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/joshdavidang/)
 
 ## Data Structures & Algorithms
 
@@ -30,6 +30,8 @@
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                 | Medium     |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Strings
 
 | #    | Problem                                                                                                                                           | Difficulty |
@@ -54,6 +56,8 @@
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                                               | Medium     |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips)                                                                        | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Binary Search
 
 | #   | Problem                                                                                                     | Difficulty |
@@ -63,6 +67,8 @@
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                     | Medium     |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                       | Medium     |
+
+<p align="right">(<a href="#top-div">back to top</a>)</p>
 
 ## Sliding Window
 
@@ -75,12 +81,16 @@
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                 | Medium     |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)                                       | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Stack
 
 | #   | Problem                                                                                              | Difficulty |
 | --- | ---------------------------------------------------------------------------------------------------- | ---------- |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                | Easy       |
 | 150 | [Evaluate Reverse Polish Notation ](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium     |
+
+<p align="right">(<a href="#top-div">back to top</a>)</p>
 
 ## Two Pointers
 
@@ -96,11 +106,15 @@
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                             | Medium     |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)         | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Linked List
 
 | #   | Problem                                                                   | Difficulty |
 | --- | ------------------------------------------------------------------------- | ---------- |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       |
+
+<p align="right">(<a href="#top-div">back to top</a>)</p>
 
 ## Dynamic Programming
 
@@ -108,14 +122,20 @@
 | --- | ------------------------------------------------------------------- | ---------- |
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Recursion
 
 | #   | Problem                                                                   | Difficulty |
 | --- | ------------------------------------------------------------------------- | ---------- |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium     |
 
+<p align="right">(<a href="#top-div">back to top</a>)</p>
+
 ## Greedy
 
 | #   | Problem                                                               | Difficulty |
 | --- | --------------------------------------------------------------------- | ---------- |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Medium     |
+
+<p align="right">(<a href="#top-div">back to top</a>)</p>
