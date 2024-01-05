@@ -4,15 +4,15 @@
 
 ## Data Structures & Algorithms
 
-- [Arrays](https://github.com/joshuadavidang/data-structures-and-algorithms#arrays)
-- [Strings](https://github.com/joshuadavidang/data-structures-and-algorithms#strings)
-- [Binary Search](https://github.com/joshuadavidang/data-structures-and-algorithms#binary-search)
-- [Sliding Window](https://github.com/joshuadavidang/data-structures-and-algorithms#sliding-window)
-- [Stack](https://github.com/joshuadavidang/data-structures-and-algorithms#stack)
-- [Two Pointers](https://github.com/joshuadavidang/data-structures-and-algorithms#two-pointers)
-- [Dynamic Programming](https://github.com/joshuadavidang/data-structures-and-algorithms#dynamic-programming)
-- [Recursion](https://github.com/joshuadavidang/data-structures-and-algorithms#recursion)
-- [Greedy](https://github.com/joshuadavidang/data-structures-and-algorithms#greedy)
+- [Arrays](#arrays)
+- [Strings](#strings)
+- [Binary Search](#binary-search)
+- [Sliding Window](#sliding-window)
+- [Stack](#stack)
+- [Two Pointers](#two-pointers)
+- [Dynamic Programming](#dynamic-programming)
+- [Recursion](#recursion)
+- [Greedy](#greedy)
 
 ## Arrays
 
