@@ -12,6 +12,7 @@
 - [Two Pointers](https://github.com/joshuadavidang/data-structures-and-algorithms#two-pointers)
 - [Dynamic Programming](https://github.com/joshuadavidang/data-structures-and-algorithms#dynamic-programming)
 - [Recursion](https://github.com/joshuadavidang/data-structures-and-algorithms#recursion)
+- [Greedy](https://github.com/joshuadavidang/data-structures-and-algorithms#greedy)
 
 ## Arrays
 
@@ -112,3 +113,9 @@
 | #   | Problem                                                                   | Difficulty |
 | --- | ------------------------------------------------------------------------- | ---------- |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium     |
+
+## Greedy
+
+| #   | Problem                                                               | Difficulty |
+| --- | --------------------------------------------------------------------- | ---------- |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Medium     |
