@@ -52,6 +52,7 @@
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                               | Easy       |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                   | Easy       |
 | 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/) | Easy       |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)                       | Easy       |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                             | Medium     |
 | 890  | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)                                                               | Medium     |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips)                                                                        | Medium     |
